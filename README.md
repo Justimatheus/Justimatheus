@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Justi
 
 
-- 🔭 I’m currently working on Pharmaceutical Industry
+- 🔭 I’m currently working on Pharmaceutical Industry, but I want to work with technology!
 - 🌱 I’m currently learning Python, JS, Html e CSS
 - 😄 Pronouns: Ele/Dele
 
