@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Matheus Justi
 
 
-- 🔭 I’m currently working on pharmaceutical industry
+- 🔭 I’m currently working on Pharmaceutical Industry
 - 🌱 I’m currently learning Python, JS, Html e CSS
 - 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/Justimatheus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Justimatheus&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justimatheus&layout=compact&langs_count=16&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Justimatheus&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justimatheus&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
